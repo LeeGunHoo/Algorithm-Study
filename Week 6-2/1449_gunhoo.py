@@ -13,3 +13,4 @@ for i in range(1, n):
         cnt += 1
 
 print(cnt)
+
