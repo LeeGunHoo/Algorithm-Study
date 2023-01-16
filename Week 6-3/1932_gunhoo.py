@@ -1,5 +1,6 @@
 dp = []
 n = int(input())
+
 for i in range(n):
     dp += [list(map(int, input().split()))]
 
